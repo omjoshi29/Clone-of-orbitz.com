@@ -1,7 +1,7 @@
 
 # Clone of Orbitz.com
 
-This project is a clone of orbitz.com, which is a is a travel fare aggregator website. This is a collaborative project, completed within 6 days with a team of 6 members, as a part of 'Construct-week' project at Masai School. This website have end to end functionalities from SignUp/LogIn and searching the hotel rooms to booking and payment.
+This project is a clone of orbitz.com, which is a is a travel fare aggregator website. This is a collaborative project, completed within 6 days with a team of 6 members, as a part of 'Construct-week' project at Masai School. This website has end to end functionalities from SignUp/LogIn and searching the hotel rooms to booking and payment.
 
 
 ## Deployed link
@@ -54,4 +54,3 @@ https://elegant-agnesi-f6525b.netlify.app/
 ## Reference
 
 * Orbitz.com
-* Google.com
