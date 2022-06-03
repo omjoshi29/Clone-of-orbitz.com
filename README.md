@@ -37,7 +37,7 @@ https://elegant-agnesi-f6525b.netlify.app/
 * Card payment
 
 
-## Language
+## Languages
 
 * HTML
 * CSS
